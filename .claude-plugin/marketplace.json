@@ -1,0 +1,5 @@
+{
+  "name": "claude-console-theme",
+  "owner": { "name": "fgaessler" },
+  "plugins": [{ "name": "console-theme", "source": "./" }]
+}

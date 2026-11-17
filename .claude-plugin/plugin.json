@@ -1,0 +1,6 @@
+{
+  "name": "console-theme",
+  "version": "0.1.0",
+  "description": "A starship-console look for the desktop app: framed backdrop, status band and labelled messages. /plain turns it off, /console turns it on.",
+  "types": "./types/index.d.ts"
+}
